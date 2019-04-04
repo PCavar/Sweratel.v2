@@ -3,7 +3,9 @@ $(document).ready(function() {
   // Hamburger menu for mobile
     $('.ui.sidebar').sidebar({
         context: $('.ui.pushable.segment'),
-        transition: 'overlay'
+        transition: 'overlay',
+        dimPage: false,
+        closable: false
     }).sidebar('attach events', '#mobile_item');
 
     // Smooth scroll to section on click

@@ -83,7 +83,7 @@
                 <div class="ui stackable three cards">
                     <div class="card">
                         <div class="image">
-                        <img src="./images/antenna.jpg">
+                        <img src="./images/antenna1.png">
                         </div>
                         <div class="content">
                             <div class="header">Antenna namn</div>
@@ -95,7 +95,7 @@
                     </div>
                     <div class="card">
                         <div class="image">
-                        <img src="./images/antenna.jpg">
+                        <img src="./images/antenna2.jpg">
                         </div>
                         <div class="content">
                             <div class="header">Antenna namn</div>
@@ -107,7 +107,7 @@
                     </div>
                     <div class="card">
                         <div class="image">
-                        <img src="./images/antenna.jpg">
+                        <img src="./images/antenna3.png">
                         </div>
                         <div class="content">
                             <div class="header">Antenna namn</div>
