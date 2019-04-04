@@ -1,6 +1,4 @@
-<?php
-    require "mail.php";
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,7 +62,7 @@
                 <h1 class="ui aligned huge header">Kort text som beskriver företaget..</h1>
             </div>
             <div class="ui black message">
-                <p>Sweratel’s website is currently undergoing a major re-work with enhanced graphical design to be released in Q1, 2019.</p>
+                <p style="text-align: center;">Sweratel’s website is currently undergoing a major re-work with enhanced graphical design to be released soon.</p>
             </div>
             <div id="products" class="ui center aligned container">
                 <h1 class="ui horizontal divider huge header header-title">
@@ -83,36 +81,35 @@
                 <div class="ui stackable three cards">
                     <div class="card">
                         <div class="image">
-                        <img src="./images/antenna1.png">
+                        <img src="./images/using-antenna2.png">
+                        </div>
+                        <div class="content">
+                            <div class="header">Pard AX24</div>
+                            <div class="description">
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
+                        </div>
+                        <button class="ui bottom attached inverted blue button">Read more</button>
+                    </div>
+                    <div class="card">
+                        <div class="image">
+                        <img src="./images/using-antenna1.png">
                         </div>
                         <div class="content">
                             <div class="header">Antenna namn</div>
                             <div class="description">
-                                Beskrivning..
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                             </div>
                         </div>
                         <button class="ui bottom attached inverted blue button">Read more</button>
                     </div>
                     <div class="card">
                         <div class="image">
-                        <img src="./images/antenna2.jpg">
+                        <img src="./images/using-antenna2.png">
                         </div>
                         <div class="content">
-                            <div class="header">Antenna namn</div>
+                            <div class="header">Pard BH5</div>
                             <div class="description">
-                                Beskrivning..
-                            </div>
-                        </div>
-                        <button class="ui bottom attached inverted blue button">Read more</button>
-                    </div>
-                    <div class="card">
-                        <div class="image">
-                        <img src="./images/antenna3.png">
-                        </div>
-                        <div class="content">
-                            <div class="header">Antenna namn</div>
-                            <div class="description">
-                                Beskrivning..
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                             </div>
                         </div>
                         <button class="ui bottom attached inverted blue button">Read more</button>
