@@ -47,16 +47,16 @@ body {
 }
 
 
-#company {
+#technology {
     height: 30em;
-    padding: 5em;
+  
     background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('./images/sweratel-testing-image.jpg');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
 }
 
 
@@ -77,6 +77,10 @@ body {
 }
 
 .header-title {
+    font-size: 3em!important;
+}
+
+.technology-title {
     font-size: 3em!important;
 }
 
@@ -101,6 +105,10 @@ footer {
     margin-top: 1em!important;
 }
 
+.line-height {
+   line-height: 1.7em!important;
+}
+
 @media only screen and (max-width: 768px) {
     #products {
         padding-right: 1em;
@@ -115,5 +123,9 @@ footer {
     #press {
         padding-right: 1em;
         padding-left: 1em;
+    }
+
+    .technology-title {
+        font-size: 2em!important;
     }
   }
