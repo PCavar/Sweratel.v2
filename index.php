@@ -92,7 +92,7 @@
                 <div class="ui stackable three cards">
                     <div class="card">
                         <div class="image">
-                        <img src="./images/using-antenna2.png">
+                        <img src="./images/ax.24.png">
                         </div>
                         <div class="content">
                             <div class="header">Pard AX24</div>
@@ -103,10 +103,10 @@
                     </div>
                     <div class="card">
                         <div class="image">
-                        <img src="./images/using-antenna1.png">
+                        <img src="./images/bh5.jpg">
                         </div>
                         <div class="content">
-                            <div class="header">Antenna namn</div>
+                            <div class="header">Pard BH5</div>
                             <div class="description">
                             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                             </div>
@@ -115,10 +115,10 @@
                     </div>
                     <div class="card">
                         <div class="image">
-                        <img src="./images/using-antenna2.png">
+                        <img src="./images/pardAX5.jpg">
                         </div>
                         <div class="content">
-                            <div class="header">Pard BH5</div>
+                            <div class="header">Pard AX5</div>
                             <div class="description">
                             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                             </div>
