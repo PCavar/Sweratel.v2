@@ -3,13 +3,14 @@ body {
 }
 
 .intro-container {
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('./images/jonkoping.jpg');
-    background-position: center;
+    background: url('./images/newYork2.jpg');
+    background-position: top;
     background-size: cover;
-    height: 70vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: -15em!important;
 }
 
 .intro-container h1 {
@@ -47,16 +48,16 @@ body {
 }
 
 
-#company {
+#technology {
     height: 30em;
-    padding: 5em;
+  
     background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('./images/sweratel-testing-image.jpg');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
 }
 
 
@@ -80,20 +81,21 @@ body {
     font-size: 3em!important;
 }
 
+.technology-title {
+    font-size: 3em!important;
+}
+
 .antenna-title {
     margin-bottom: 1em!important;
 }
 
 .logo {
-    height: 2.6em;
-    width: 10em!important;
+    height: 4em;
 }
 
 footer {
     background: #54C8FF;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0072ff, #54C8FF);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0072ff, #54C8FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    
+    background-color: #54C8FF;
     height: auto;
     margin-top: 2em;
     padding-top: 5em;
@@ -101,6 +103,10 @@ footer {
 
 .sendButton {
     margin-top: 1em!important;
+}
+
+.line-height {
+   line-height: 1.7em!important;
 }
 
 @media only screen and (max-width: 768px) {
@@ -117,5 +123,9 @@ footer {
     #press {
         padding-right: 1em;
         padding-left: 1em;
+    }
+
+    .technology-title {
+        font-size: 2em!important;
     }
   }
