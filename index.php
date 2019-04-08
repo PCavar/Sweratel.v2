@@ -52,44 +52,29 @@
     <div class="ui pushable segment">
         <div class="ui sidebar vertical menu">
             <div class="placeholder" style="height: 5em;"></div>
-            <a href="#company" class="borderless item active">Company</a>
+            <a href="#technology" class="borderless item active">Technology</a>
             <a href="#products" class="borderless item">Products</a>
             <a href="#antennas" class="borderless item">Antennas</a>
-            <a href="#technology" class="borderless item">Technology</a>
+            <a href="#company" class="borderless item">Company</a>
             <a href="#press" class="borderless item">Press</a>
             <a href="#contact" class="borderless item">Contact</a>
         </div>
         <div class="pusher">
             <div class="placeholder" style="height: 4.8em;"></div>
             <div id="technology" class="section ui fluid intro-container">
-                <h1 class="ui aligned huge header">The Pioneer in Development of Cellular-class WiFi Solutions</h1>
+                <h1 class="ui aligned huge header">Kort text som beskriver företaget..</h1>
             </div>
             <div class="ui black message">
                 <p style="text-align: center;">Sweratel’s website is currently undergoing a major re-work with enhanced graphical design to be released soon.</p>
             </div>
-
-            <div id="products" class="ui center aligned container">
-                <h1 class="ui horizontal divider huge header header-title">
-                    Company
-                </h1>
-                    <div class="sub header product-description">
-                    Sweratel is a Swedish innovative company that focuses on new technology and R&D to develop tomorrow's Communication systems. Sweratel specializes primarily in the design, development and integration of state-of-the-art software and hardware for real-time communication systems. 
-                    </div>
-                
-                <button class="ui inverted blue button product-button">Learn more</button>
-            </div>
-
             <div id="products" class="ui center aligned container">
                 <h1 class="ui horizontal divider huge header header-title">
                     Our products
                 </h1>
-                    <div class="sub header product-description">
-                    The Sweratel RTWIP-CORE platform enables network owners, operators and ISPs to deploy flexible, high performance and highly scalable cloud-managed Cellular-class WiFi infrastructure solutions based on 802.11ac supports upgrade path to WiFi 6 (6 GHz) that is featured with SON (Self-Organization Network) architecture solution.  The 6 GHz is heating up and will be greenfield and from a spectrum point of view as Wi-Fi 6 is tailored to support a real-world Cellular-class Wi-Fi - “the Breakthrough telcos, Operators and ISPs have been waiting for”. 
-                    </div>
+                    <div class="sub header product-description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</div>
                 
                 <button class="ui inverted blue button product-button">Learn more</button>
             </div>
-
             <div id="antennas" class="antenna-container">
             <h1 class="ui horizontal divider huge header header-title antenna-title">
                 Antennas
@@ -99,10 +84,21 @@
                 <div class="ui stackable three cards">
                     <div class="card">
                         <div class="image">
-                        <img src="./images/pardAX5.jpg">
+                        <img src="./images/using-antenna2.png">
                         </div>
                         <div class="content">
-                            <div class="header">Pard AX5</div>
+                            <div class="header">Pard AX24</div>
+                            <div class="description">
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
+                        </div>
+                        <button class="ui bottom attached inverted blue button">Read more</button>
+                    </div>
+                    <div class="card">
+                        <div class="image">
+                        <img src="./images/using-antenna1.png">
+                        </div>
+                        <div class="content">
+                            <div class="header">Antenna namn</div>
                             <div class="description">
                             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                             </div>
@@ -111,24 +107,13 @@
                     </div>
                     <div class="card">
                         <div class="image">
-                        <img src="./images/bh5.jpg">
+                        <img src="./images/using-antenna2.png">
                         </div>
                         <div class="content">
                             <div class="header">Pard BH5</div>
                             <div class="description">
                             "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                             </div>
-                        </div>
-                        <button class="ui bottom attached inverted blue button">Read more</button>
-                    </div>
-                    <div class="card">
-                        <div class="image">
-                        <img src="./images/ax24.png">
-                        </div>
-                        <div class="content">
-                            <div class="header">Pard AX24</div>
-                            <div class="description">
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
                         </div>
                         <button class="ui bottom attached inverted blue button">Read more</button>
                     </div>
@@ -139,18 +124,11 @@
            
                 <div id="company">
                     <div class="ui container bg-text">
-                    <h1 class="ui horizontal divider inverted header container header-title" style="margin-top: 8em!important;">
-                        Software defined WiFi-Basestation
-                    </h1>
-                        </div> 
-                    </div>
-
-
-                    <h1 class="ui horizontal divider header container header-title">
-                        Technology
-                    </h1>
-                    <div class="sub header product-description">
-                        The architecture of the Sweratel RTWIP-CORE system is built upon a highly-flexible modular software platform. The modular concept features the Macro- and Micro-software modules for the Sweratel complete-end-to-end system; BTS, MNC, RNMS, CBS/AAA, CRM, OLS and future products. These create industry-leading state-of-the-art networked solution tailored to support Cellular-class Macrocell WiFi requirements of Operators, Telcos, ISPs including other new entrants from Municipalities, IoE sectors and Smart Networked Society Market to Digital Transformation.
+                        <h1 class="ui horizontal divider blue header container header-title">
+                            Sweratel
+                        </h1>
+                        <div class="sub header product-description">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</div>
+                    </div> 
                 </div>
             
             <div id="press" class="ui container">

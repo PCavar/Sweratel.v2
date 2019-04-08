@@ -15,8 +15,7 @@ body {
 .intro-container h1 {
     color: #fff!important;
     padding: 0.4em!important;
-    font-size: 2em!important;
-    margin-bottom: 10em!important;
+    font-size: 3em!important;
 }
 
 .ui.black.message {
@@ -31,7 +30,6 @@ body {
     max-width: 35em;
     margin: 0 auto!important;
     font-size: 1.5em!important;
-    line-height: 1.2em!important;
 }
 
 .product-button {
@@ -52,17 +50,13 @@ body {
 #company {
     height: 30em;
     padding: 5em;
-    background: url('./images/sweratel-testing-image.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('./images/sweratel-testing-image.jpg');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
     display: flex;
     align-items: center;
-}
-
-.image {
-    border: 1px solid red!important;
 }
 
 
@@ -84,8 +78,7 @@ body {
 
 .header-title {
     font-size: 3em!important;
-    /*     color: #54C8FF!important;
- */}
+}
 
 .antenna-title {
     margin-bottom: 1em!important;
