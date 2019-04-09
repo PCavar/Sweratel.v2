@@ -51,7 +51,7 @@ body {
 #technology {
     height: 30em;
   
-    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url('./images/sweratel-testing-image.jpg');
+    background: url('./images/sweratel-testing-image.jpg');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;

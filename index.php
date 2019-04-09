@@ -97,7 +97,9 @@
                         <div class="content">
                             <div class="header">Pard AX24</div>
                             <div class="description">
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
+                            This Advance Product Information contains the specification for the 3x3 (optional 4x4) MIMO Sector access antenna designed for the Sweratel RTWIP Carrier-class MetroWiFi Network Access operating in the 2.4 – 2.5 GHz unlicensed band and supporting the IEEE 802.11-family radio standards. The Pard 24 access antenna includes 3×3 MIMO each with its own RF connector, and housed in a single IP67 chassis.  Emphasis has been placed on rugged mechanical construction, combined with an aesthetically pleasing appearance and simple, rapid installation.
+The Pard 24 antenna supports multi radio systems such as Carrier-class WiFi (802.11ac/g/n etc), LTE, Bluetooth, ISM, RFiD. The Pard 24 uses polarization diversity and offset azimuth beams to maximize MIMO throughput. The antenna is supplied with mounting brackets for fast installation providing either a fixed T0 tilt, or adjustable tilt.
+</div>
                         </div>
                         <button class="ui bottom attached inverted blue button">Read more</button>
                     </div>
@@ -108,7 +110,7 @@
                         <div class="content">
                             <div class="header">Pard BH5</div>
                             <div class="description">
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+                            PARD BH-5 Ultra Wide-band 3x3 (optional 4x4) MIMO Sector Antenna System operating in 4.9 – 5.9/6.0GHz band with 14dBi peak-gain, 20/40degrees Antenna Beamwidth (3DB) and Linear (V-H-V) polarization. Because of reduced side-lobes, excellent efficiency and impedance matching characteristics, antenna keeps clear strong signal even in crowded radio environment. It´s resistant to interference from other networks and does not disturb to other. The antenna is intended for use with base-station radios supporting the IEEE 802.11 standards and equipped with 3 RF ports. Antenna features no beam squint due to frequency change; it means that decreasing of data throughput or even loss of a link after frequency channel change does not occur. Designed specifically for high-efficiency, high gain directional radio coverage in outdoor deployment scenarios.
                             </div>
                         </div>
                         <button class="ui bottom attached inverted blue button">Read more</button>
@@ -120,8 +122,7 @@
                         <div class="content">
                             <div class="header">Pard AX5</div>
                             <div class="description">
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-                            </div>
+                            PARD AX-5 Ultra Wide-band 3x3 (optional 4x4) MIMO Sector Antenna System operating in 4.9 – 6.0 GHz band with 14dBi peak-gain, 105degrees Antenna Beamwidth (3DB)  and Linear (V-H-V) polarization. Because of reduced side-lobes, excellent efficiency and impedance matching characteristics, antenna keeps clear strong signal even in crowded radio environment. It´s resistant to interference from other networks and does not disturb to other. The antenna is intended for use with base-station radios supporting the IEEE 802.11 standards and equipped with 3 RF ports. Antenna features no beam squint due to frequency change; it means that decreasing of data throughput or even loss of a link after frequency channel change does not occur. Designed specifically for high-efficiency, high gain directional radio coverage in outdoor deployment scenarios.                            </div>
                         </div>
                         <button class="ui bottom attached inverted blue button">Read more</button>
                     </div>
