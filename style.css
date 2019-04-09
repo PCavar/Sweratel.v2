@@ -49,8 +49,7 @@ body {
 
 
 #technology {
-    height: 30em;
-  
+    height: 30em; 
     background: url('./images/sweratel-testing-image.jpg');
     background-position: center; 
     background-repeat: no-repeat;
@@ -60,6 +59,16 @@ body {
     align-items: flex-end;
 }
 
+#wlan-card {
+    height: 55em; 
+    background: url('./images/wlan-card.png');
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    display: flex;
+    align-items: flex-end;
+}
 
 #press {
     padding: 5em;

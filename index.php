@@ -145,6 +145,16 @@ The Pard 24 antenna supports multi radio systems such as Carrier-class WiFi (802
             </h1>
             <div class="sub header product-description line-height">The architecture of the Sweratel RTWIP-CORE system is built upon a highly-flexible modular software platform. The modular concept features the Macro- and Micro-software modules for the Sweratel complete-end-to-end system; BTS, MNC, RNMS, CBS/AAA, CRM, OLS and future products. These create industry-leading state-of-the-art networked solution tailored to support Cellular-class Macrocell WiFi requirements of Operators, Telcos, ISPs including other new entrants from Municipalities, IoE sectors and Smart Networked Society Market to Digital Transformation.</div>
             </div>
+
+
+            <div class="ui placeholder"></div>
+           
+                <div id="wlan-card">
+        
+                    </div> 
+                </div>
+
+
             <div id="press" class="ui container">
                 <h1 class="ui horizontal divider header header-title">
                     Press release
