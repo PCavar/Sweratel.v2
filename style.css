@@ -60,14 +60,21 @@ body {
 }
 
 #wlan-card {
-    height: 55em; 
-    background: url('./images/wlan-card.png');
+    height: 65em;
+    font-size: 1em;
+    padding: 20em!important;
+    background: url('./images/sweratelWlan.jpg');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
     display: flex;
     align-items: flex-end;
+}
+
+.placeholder {
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 #press {
