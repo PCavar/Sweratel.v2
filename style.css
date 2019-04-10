@@ -60,16 +60,25 @@ body {
 }
 
 #wlan-card {
-    height: 65em;
-    font-size: 1em;
-    padding: 20em!important;
-    background: url('./images/sweratelWlan.jpg');
+    height: 40em;
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
     display: flex;
     align-items: flex-end;
+}
+
+.card-holder-wlan {
+    height: 40em;
+    width: 100%;
+    text-align: center;
+}
+
+
+.card-holder-wlan img {
+    width: 80em;
+    height: 40em;
 }
 
 .placeholder {

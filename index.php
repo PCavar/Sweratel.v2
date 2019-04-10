@@ -150,7 +150,10 @@ The Pard 24 antenna supports multi radio systems such as Carrier-class WiFi (802
             <div class="ui placeholder"></div>
            
                 <div id="wlan-card">
-        
+            <div class="card-holder-wlan">
+                    <img src="./images/sweratelWlan.jpg">
+
+            </div>
                     </div> 
                 </div>
 
