@@ -29,7 +29,7 @@
                         <a href="#company" class="borderless item">Company</a>
                         <a href="#products" class="borderless item">Products</a>
                         <a href="#antennas" class="borderless item">Antennas</a>
-                        <a class="borderless item active" href="#technology">Technology</a>
+                        <a class="borderless item" href="#technology">Technology</a>
                         <a href="#press" class="borderless item">Press</a>
                         <a href="#contact" class="borderless item">Contact</a>
                     </div>
@@ -43,6 +43,7 @@
                     <a id="mobile_item" class="item"><i class="bars icon"></i></a>
                     <div class="borderless right item">
                         <a href="index.html"><img class="logo" src="./images/logotext.png"></a>
+                       
                     </div>
                 </div>
             </div>
@@ -51,37 +52,34 @@
 
     <div class="ui pushable segment">
         <div class="ui sidebar vertical menu">
-            <div class="placeholder" style="height: 5em;"></div>
+            <div class="placeholder" style="margin-top: 6em;"></div>
             <a href="#company" class="borderless item">Company</a>
             <a href="#products" class="borderless item">Products</a>
             <a href="#antennas" class="borderless item">Antennas</a>
-            <a href="#technology" class="borderless item active">Technology</a>
+            <a href="#technology" class="borderless item">Technology</a>
             <a href="#press" class="borderless item">Press</a>
             <a href="#contact" class="borderless item">Contact</a>
         </div>
         <div class="pusher">
-            <div class="placeholder" style="height: 4.8em;"></div>
             <div class="section ui fluid intro-container">
-                <h1 class="ui aligned huge header">The Pioneer in Development of Cellular-class WiFi Solutions</h1>
-            </div>
-            <div class="ui black message">
-                <p style="text-align: center;">Sweratel’s website is currently undergoing a major re-work with enhanced graphical design to be released soon.</p>
+                <h1 class="ui aligned huge header">Shaping a new converged wireless networked society.</h1>
             </div>
             <div id="company" class="ui center aligned container">
-                <h1 style="margin-top: 2em!important" class="ui horizontal divider huge header header-title">
+                <h1 class="ui horizontal divider huge header header-title">
                     Company
                 </h1>
-                    <div class="sub header product-description line-height">Sweratel is a Swedish innovative company that focuses on new technology and R&D to develop tomorrow's Communication systems. Sweratel specializes primarily in the design, development and integration of state-of-the-art software and hardware for real-time communication systems.</div>
-                
-                <button class="ui inverted blue button product-button">Learn more</button>
+                    <div class="sub header product-description line-height">Sweratel is a Swedish innovative company that focuses on new technology and R&D to develop tomorrows Communication systems. Sweratel specializes primarily in the design, development and integration of state-of-the-art software and hardware for real-time communication systems.</div>
+                    <a href="company.php"><button class="ui blue button product-button">Read more</button></a>
             </div>
-            <div id="products" class="ui center aligned container">
-                <h1 class="ui horizontal divider huge header header-title">
-                    Our products
-                </h1>
-                    <div class="sub header product-description line-height">The Sweratel RTWIP-CORE platform enables network owners, operators and ISPs to deploy flexible, high performance and highly scalable Cloud-managed Cellular-class WiFi infrastructure solutions based on 802.11ac supports upgrade path to WiFi 6 (6 GHz) that is featured with SON (Self-Organization Network) architecture solution.  The 6 GHz is heating up and will be greenfield and from a spectrum point of view as Wi-Fi 6 is tailored to support a real-world Cellular-class Wi-Fi   “the Breakthrough Telcos, Operators and ISPs have been waiting for”.</div>
-                
-                <button class="ui inverted blue button product-button">Learn more</button>
+            <div class="products-wrapper" style="background-color: #EFEFEF;">
+                <div id="products" class="ui center aligned container">
+                    <h1 class="ui horizontal divider huge header header-title">
+                        Our products
+                    </h1>
+                        <div class="sub header product-description line-height">The Sweratel RTWIP-CORE platform enables network owners, operators and ISPs to deploy flexible, high performance and highly scalable Cloud-managed Cellular-class WiFi infrastructure solutions based on 802.11ac supports upgrade path to WiFi 6 (6 GHz) that is featured with SON (Self-Organization Network) architecture solution.  The 6 GHz is heating up and will be greenfield and from a spectrum point of view as Wi-Fi 6 is tailored to support a real-world Cellular-class Wi-Fi   “the Breakthrough Telcos, Operators and ISPs have been waiting for”.</div>
+                    
+                    <button class="ui blue button center product-button">Learn more</button>
+                </div>
             </div>
             <div id="antennas" class="antenna-container">
             <h1 class="ui horizontal divider huge header header-title antenna-title">
@@ -92,71 +90,102 @@
                 <div class="ui stackable three cards">
                     <div class="card">
                         <div class="image">
-                        <img src="./images/ax.24.png">
+                        <img style="height: 30em;" src="./images/ax.24.jpeg">
                         </div>
                         <div class="content">
                             <div class="header">Pard AX24</div>
                             <div class="description">
-                            This Advance Product Information contains the specification for the 3x3 (optional 4x4) MIMO Sector access antenna designed for the Sweratel RTWIP Carrier-class MetroWiFi Network Access operating in the 2.4 – 2.5 GHz unlicensed band and supporting the IEEE 802.11-family radio standards. The Pard 24 access antenna includes 3×3 MIMO each with its own RF connector, and housed in a single IP67 chassis.  Emphasis has been placed on rugged mechanical construction, combined with an aesthetically pleasing appearance and simple, rapid installation.
-The Pard 24 antenna supports multi radio systems such as Carrier-class WiFi (802.11ac/g/n etc), LTE, Bluetooth, ISM, RFiD. The Pard 24 uses polarization diversity and offset azimuth beams to maximize MIMO throughput. The antenna is supplied with mounting brackets for fast installation providing either a fixed T0 tilt, or adjustable tilt.
+                            This Advance Product Information contains the specification for the 3x3 (optional 4x4) MIMO Sector access antenna designed for the Sweratel RTWIP Carrier-class MetroWiFi Network Access operating in the 2.4 – 2.5 GHz unlicensed band and supporting the IEEE 802.11-family radio standards. The Pard 24 access antenna includes 3×3 MIMO each with its own RF connector, and housed in a single IP67 chassis.  
 </div>
                         </div>
-                        <button class="ui bottom attached inverted blue button">Read more</button>
+                        <button class="ui bottom attached blue button">Read more</button>
                     </div>
                     <div class="card">
                         <div class="image">
-                        <img src="./images/bh5.jpg">
+                        <img style="height: 30em;" src="./images/bh5.jpg">
                         </div>
                         <div class="content">
                             <div class="header">Pard BH5</div>
                             <div class="description">
-                            PARD BH-5 Ultra Wide-band 3x3 (optional 4x4) MIMO Sector Antenna System operating in 4.9 – 5.9/6.0GHz band with 14dBi peak-gain, 20/40degrees Antenna Beamwidth (3DB) and Linear (V-H-V) polarization. Because of reduced side-lobes, excellent efficiency and impedance matching characteristics, antenna keeps clear strong signal even in crowded radio environment. It´s resistant to interference from other networks and does not disturb to other. The antenna is intended for use with base-station radios supporting the IEEE 802.11 standards and equipped with 3 RF ports. Antenna features no beam squint due to frequency change; it means that decreasing of data throughput or even loss of a link after frequency channel change does not occur. Designed specifically for high-efficiency, high gain directional radio coverage in outdoor deployment scenarios.
+                            PARD BH-5 Ultra Wide-band 3x3 (optional 4x4) MIMO Sector Antenna System operating in 4.9 – 5.9/6.0GHz band with 14dBi peak-gain, 20/40degrees Antenna Beamwidth (3DB) and Linear (V-H-V) polarization. 
                             </div>
                         </div>
-                        <button class="ui bottom attached inverted blue button">Read more</button>
+                        <button class="ui bottom attached blue button">Read more</button>
                     </div>
                     <div class="card">
                         <div class="image">
-                        <img src="./images/pardAX5.jpg">
+                        <img style="height: 30em;" src="./images/pardAX5.jpg">
                         </div>
                         <div class="content">
                             <div class="header">Pard AX5</div>
                             <div class="description">
-                            PARD AX-5 Ultra Wide-band 3x3 (optional 4x4) MIMO Sector Antenna System operating in 4.9 – 6.0 GHz band with 14dBi peak-gain, 105degrees Antenna Beamwidth (3DB)  and Linear (V-H-V) polarization. Because of reduced side-lobes, excellent efficiency and impedance matching characteristics, antenna keeps clear strong signal even in crowded radio environment. It´s resistant to interference from other networks and does not disturb to other. The antenna is intended for use with base-station radios supporting the IEEE 802.11 standards and equipped with 3 RF ports. Antenna features no beam squint due to frequency change; it means that decreasing of data throughput or even loss of a link after frequency channel change does not occur. Designed specifically for high-efficiency, high gain directional radio coverage in outdoor deployment scenarios.                            </div>
+                            PARD AX-5 Ultra Wide-band 3x3 (optional 4x4) MIMO Sector Antenna System operating in 4.9 – 6.0 GHz band with 14dBi peak-gain, 105degrees Antenna Beamwidth (3DB)  and Linear (V-H-V) polarization. 
+                            </div>
                         </div>
-                        <button class="ui bottom attached inverted blue button">Read more</button>
+                        <button class="ui bottom attached blue button">Read more</button>
                     </div>
                 </div> 
             </div>
             </div>
+            <div style="background-color: #EFEFEF;">
+                <div style="padding: 5em;" class="ui container">
+                <h1 class="ui horizontal divider header header-title">
+                    Technology
+                </h1>
+                <div class="sub header product-description line-height">The architecture of the Sweratel RTWIP-CORE system is built upon a highly-flexible modular software platform. The modular concept features the Macro- and Micro-software modules for the Sweratel complete-end-to-end system; BTS, MNC, RNMS, CBS/AAA, CRM, OLS and future products. These create industry-leading state-of-the-art networked solution tailored to support Cellular-class Macrocell WiFi requirements of Operators, Telcos, ISPs including other new entrants from Municipalities, IoE sectors and Smart Networked Society Market to Digital Transformation.</div>
+                </div>
+            </div>
+
             <div class="ui placeholder"></div>
-           
                 <div id="technology">
-                    <div class="ui container bg-text">
-                        <h1 class="ui horizontal divider inverted header container technology-t">
-                            Software defined WiFi-Basestation
+                    <div style="width: 50%;">
+                        <h1 style="margin-top: 2em!important;">
+                            RTWIP CORE
                         </h1>
-        
-                    </div> 
+                        <div style="">
+                            <img style="width: 100%;" src="./images/sweratelWlan.jpg">
+                            <div class="sub header product-description line-height">
+                                The Sweratel RTWIP solutions integrate the power of Smart Networked Society with the versatility of Cellular-class Public WiFi communications, complementary to licensed cellular and/or substitutes.
+                            </div>
+                            <div class="ui buttons">
+                                <button class="ui button">Download PDF</button>
+                                <div class="or"></div>
+                                <button class="ui bottom attached inverted blue button bigger-image-1">View fullscreen</button>
+                            </div>
+                        </div>  
+                    </div>
+                    <div style="width: 50%; padding-left: 2em;">
+                        <h1 style="margin-top: 2em!important;">
+                            Heterogeneous solution
+                        </h1>
+                        <div>
+                            <img style="width: 100%;" src="./images/wlan.png">
+                            <div class="sub header product-description line-height">
+                                The Sweratel RTWIP Heterogeneous network solutions provides complete end-to-end cost-effective infrastructure solutions riding the data tsunami heading their way delivering coverage and data-capacity demands in the most challenging areas.
+                            </div>
+                            <div class="ui buttons" style="padding-left: 5em!important;">
+                                <button class="ui button">Download PDF</button>
+                                <div class="or"></div>
+                                <button class="ui bottom attached inverted blue button bigger-image-2">View fullscreen</button>
+                            </div>
+                        </div>  
+                    </div>
+                
+                 
                 </div>
-            <div id="" class="ui container">
-            <h1 style="margin-top: 2em!important" class="ui horizontal divider header header-title">
-                Technology
-            </h1>
-            <div class="sub header product-description line-height">The architecture of the Sweratel RTWIP-CORE system is built upon a highly-flexible modular software platform. The modular concept features the Macro- and Micro-software modules for the Sweratel complete-end-to-end system; BTS, MNC, RNMS, CBS/AAA, CRM, OLS and future products. These create industry-leading state-of-the-art networked solution tailored to support Cellular-class Macrocell WiFi requirements of Operators, Telcos, ISPs including other new entrants from Municipalities, IoE sectors and Smart Networked Society Market to Digital Transformation.</div>
-            </div>
 
+                <div class="ui fullscreen modal modal-1" style="height: 90%!important;">
+                    <i class="close icon"></i>
+                    <img class="bigger-image-1" style="width: 100%; height: 100%; padding: 5em!important;" src="./images/sweratelWlan.jpg">
+                </div>
+                <div class="ui fullscreen modal modal-2" style="height: 90%!important;">
+                    <i class="close icon"></i>
+                    <img class="bigger-image-2" style="width: 100%; height: 100%; padding: 5em!important;" src="./images/wlan.png">
+                </div>
+            
+         
 
-            <div class="ui placeholder"></div>
            
-                <div id="wlan-card">
-            <div class="card-holder-wlan">
-                    <img src="./images/sweratelWlan.jpg">
-
-            </div>
-                    </div> 
-                </div>
-
 
             <div id="press" class="ui container">
                 <h1 class="ui horizontal divider header header-title">
@@ -199,6 +228,9 @@ The Pard 24 antenna supports multi radio systems such as Carrier-class WiFi (802
                         <div class="column"></div>
                         <div class="column"></div>
                 </div>
+                </div>
+                <div class="ui black message">
+                    <p style="text-align: center;">© Sweratel AB 2019 - All Rights Reserved</p>
                 </div>
             </footer>
     </div>

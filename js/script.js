@@ -47,4 +47,21 @@ $(document).ready(function() {
               $('.actions input').removeAttr('disabled');
           }
         });
+
+        $( ".bigger-image-1" ).click(function() {
+          $('.modal-1')
+          .modal('show')
+          ;
+        });
+
+        $( ".bigger-image-2" ).click(function() {
+          $('.modal-2')
+          .modal('show')
+          ;
+        });
+
+
+    
+
+
 });

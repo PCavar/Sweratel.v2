@@ -3,14 +3,13 @@ body {
 }
 
 .intro-container {
-    background: url('./images/newYork2.jpg');
-    background-position: top;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./images/jonkoping.jpg');
     background-size: cover;
-    height: 100vh;
+    background-position: center;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -15em!important;
 }
 
 .intro-container h1 {
@@ -24,7 +23,9 @@ body {
 }
 
 #products {
-    padding: 5em;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    background-color: #EFEFEF;
 }
 
 .product-description {
@@ -37,26 +38,32 @@ body {
     margin-top: 1em!important;
 }
 
+.company a {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.company-text p {
+    font-size: 1.2em!important;
+}
+
 .antenna-container {
-    background-color: #FAFAFA;
-    border-top: 1px solid rgb(241, 241, 241);
+    background-color: #FFF;
     padding: 5em;
+    margin-top: 5em;
+    margin-bottom: 5em;
 }
 
 .antenna-card-container {
-    background-color: #FAFAFA!important;
+    background-color: #FFF!important;
 }
 
 
 #technology {
-    height: 30em; 
-    background: url('./images/sweratel-testing-image.jpg');
-    background-position: center; 
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #fff;
-    display: flex;
-    align-items: flex-end;
+   width: 100%;
+   display: flex!important;
+    flex-wrap: wrap;
+    padding: 2em;
 }
 
 #wlan-card {
@@ -90,6 +97,11 @@ body {
     padding: 5em;
 }
 
+#company {
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+
 .ui.grid {
     padding: 0 !important;
     margin-right: 0!important;
@@ -119,8 +131,8 @@ body {
 }
 
 footer {
-    background: #54C8FF;  /* fallback for old browsers */
-    background-color: #54C8FF;
+    background: #03a9f4;  /* fallback for old browsers */
+    background-color: #03a9f4;
     height: auto;
     margin-top: 2em;
     padding-top: 5em;
